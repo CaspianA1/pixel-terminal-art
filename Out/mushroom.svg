@@ -1,0 +1,1516 @@
+<?xml version="1.0" standalone="no"?>
+				<svg width="178" height="102" version="1.1"
+				xmlns="http://www.w3.org/2000/svg">
+
+<rect x="46" y="4" width="2" height="2" stroke="red"
+				fill="red" stroke-width="1"/>
+<rect x="47" y="4" width="2" height="2" stroke="red"
+				fill="red" stroke-width="1"/>
+<rect x="48" y="4" width="2" height="2" stroke="red"
+				fill="red" stroke-width="1"/>
+<rect x="101" y="4" width="2" height="2" stroke="red"
+				fill="red" stroke-width="1"/>
+<rect x="102" y="4" width="2" height="2" stroke="red"
+				fill="red" stroke-width="1"/>
+<rect x="113" y="4" width="2" height="2" stroke="red"
+				fill="red" stroke-width="1"/>
+<rect x="118" y="4" width="2" height="2" stroke="red"
+				fill="red" stroke-width="1"/>
+<rect x="46" y="6" width="2" height="2" stroke="red"
+				fill="red" stroke-width="1"/>
+<rect x="47" y="6" width="2" height="2" stroke="black"
+				fill="black" stroke-width="1"/>
+<rect x="48" y="6" width="2" height="2" stroke="red"
+				fill="red" stroke-width="1"/>
+<rect x="61" y="6" width="2" height="2" stroke="red"
+				fill="red" stroke-width="1"/>
+<rect x="62" y="6" width="2" height="2" stroke="red"
+				fill="red" stroke-width="1"/>
+<rect x="71" y="6" width="2" height="2" stroke="red"
+				fill="red" stroke-width="1"/>
+<rect x="72" y="6" width="2" height="2" stroke="red"
+				fill="red" stroke-width="1"/>
+<rect x="100" y="6" width="2" height="2" stroke="red"
+				fill="red" stroke-width="1"/>
+<rect x="101" y="6" width="2" height="2" stroke="red"
+				fill="red" stroke-width="1"/>
+<rect x="102" y="6" width="2" height="2" stroke="red"
+				fill="red" stroke-width="1"/>
+<rect x="103" y="6" width="2" height="2" stroke="red"
+				fill="red" stroke-width="1"/>
+<rect x="113" y="6" width="2" height="2" stroke="red"
+				fill="red" stroke-width="1"/>
+<rect x="114" y="6" width="2" height="2" stroke="red"
+				fill="red" stroke-width="1"/>
+<rect x="118" y="6" width="2" height="2" stroke="red"
+				fill="red" stroke-width="1"/>
+<rect x="22" y="7" width="2" height="2" stroke="red"
+				fill="red" stroke-width="1"/>
+<rect x="23" y="7" width="2" height="2" stroke="red"
+				fill="red" stroke-width="1"/>
+<rect x="24" y="7" width="2" height="2" stroke="red"
+				fill="red" stroke-width="1"/>
+<rect x="25" y="7" width="2" height="2" stroke="red"
+				fill="red" stroke-width="1"/>
+<rect x="26" y="7" width="2" height="2" stroke="red"
+				fill="red" stroke-width="1"/>
+<rect x="27" y="7" width="2" height="2" stroke="red"
+				fill="red" stroke-width="1"/>
+<rect x="28" y="7" width="2" height="2" stroke="red"
+				fill="red" stroke-width="1"/>
+<rect x="44" y="7" width="2" height="2" stroke="red"
+				fill="red" stroke-width="1"/>
+<rect x="45" y="7" width="2" height="2" stroke="red"
+				fill="red" stroke-width="1"/>
+<rect x="46" y="7" width="2" height="2" stroke="red"
+				fill="red" stroke-width="1"/>
+<rect x="47" y="7" width="2" height="2" stroke="black"
+				fill="black" stroke-width="1"/>
+<rect x="48" y="7" width="2" height="2" stroke="red"
+				fill="red" stroke-width="1"/>
+<rect x="49" y="7" width="2" height="2" stroke="red"
+				fill="red" stroke-width="1"/>
+<rect x="50" y="7" width="2" height="2" stroke="red"
+				fill="red" stroke-width="1"/>
+<rect x="60" y="7" width="2" height="2" stroke="red"
+				fill="red" stroke-width="1"/>
+<rect x="61" y="7" width="2" height="2" stroke="red"
+				fill="red" stroke-width="1"/>
+<rect x="62" y="7" width="2" height="2" stroke="red"
+				fill="red" stroke-width="1"/>
+<rect x="63" y="7" width="2" height="2" stroke="red"
+				fill="red" stroke-width="1"/>
+<rect x="70" y="7" width="2" height="2" stroke="red"
+				fill="red" stroke-width="1"/>
+<rect x="71" y="7" width="2" height="2" stroke="red"
+				fill="red" stroke-width="1"/>
+<rect x="72" y="7" width="2" height="2" stroke="red"
+				fill="red" stroke-width="1"/>
+<rect x="73" y="7" width="2" height="2" stroke="red"
+				fill="red" stroke-width="1"/>
+<rect x="99" y="7" width="2" height="2" stroke="red"
+				fill="red" stroke-width="1"/>
+<rect x="100" y="7" width="2" height="2" stroke="red"
+				fill="red" stroke-width="1"/>
+<rect x="103" y="7" width="2" height="2" stroke="red"
+				fill="red" stroke-width="1"/>
+<rect x="104" y="7" width="2" height="2" stroke="red"
+				fill="red" stroke-width="1"/>
+<rect x="113" y="7" width="2" height="2" stroke="red"
+				fill="red" stroke-width="1"/>
+<rect x="114" y="7" width="2" height="2" stroke="red"
+				fill="red" stroke-width="1"/>
+<rect x="115" y="7" width="2" height="2" stroke="red"
+				fill="red" stroke-width="1"/>
+<rect x="118" y="7" width="2" height="2" stroke="red"
+				fill="red" stroke-width="1"/>
+<rect x="26" y="9" width="2" height="2" stroke="red"
+				fill="red" stroke-width="1"/>
+<rect x="44" y="9" width="2" height="2" stroke="red"
+				fill="red" stroke-width="1"/>
+<rect x="47" y="9" width="2" height="2" stroke="red"
+				fill="red" stroke-width="1"/>
+<rect x="50" y="9" width="2" height="2" stroke="red"
+				fill="red" stroke-width="1"/>
+<rect x="59" y="9" width="2" height="2" stroke="red"
+				fill="red" stroke-width="1"/>
+<rect x="60" y="9" width="2" height="2" stroke="red"
+				fill="red" stroke-width="1"/>
+<rect x="63" y="9" width="2" height="2" stroke="red"
+				fill="red" stroke-width="1"/>
+<rect x="64" y="9" width="2" height="2" stroke="red"
+				fill="red" stroke-width="1"/>
+<rect x="69" y="9" width="2" height="2" stroke="red"
+				fill="red" stroke-width="1"/>
+<rect x="70" y="9" width="2" height="2" stroke="red"
+				fill="red" stroke-width="1"/>
+<rect x="73" y="9" width="2" height="2" stroke="red"
+				fill="red" stroke-width="1"/>
+<rect x="74" y="9" width="2" height="2" stroke="red"
+				fill="red" stroke-width="1"/>
+<rect x="98" y="9" width="2" height="2" stroke="red"
+				fill="red" stroke-width="1"/>
+<rect x="99" y="9" width="2" height="2" stroke="red"
+				fill="red" stroke-width="1"/>
+<rect x="100" y="9" width="2" height="2" stroke="red"
+				fill="red" stroke-width="1"/>
+<rect x="101" y="9" width="2" height="2" stroke="red"
+				fill="red" stroke-width="1"/>
+<rect x="102" y="9" width="2" height="2" stroke="red"
+				fill="red" stroke-width="1"/>
+<rect x="103" y="9" width="2" height="2" stroke="red"
+				fill="red" stroke-width="1"/>
+<rect x="104" y="9" width="2" height="2" stroke="red"
+				fill="red" stroke-width="1"/>
+<rect x="105" y="9" width="2" height="2" stroke="red"
+				fill="red" stroke-width="1"/>
+<rect x="113" y="9" width="2" height="2" stroke="red"
+				fill="red" stroke-width="1"/>
+<rect x="115" y="9" width="2" height="2" stroke="red"
+				fill="red" stroke-width="1"/>
+<rect x="116" y="9" width="2" height="2" stroke="red"
+				fill="red" stroke-width="1"/>
+<rect x="118" y="9" width="2" height="2" stroke="red"
+				fill="red" stroke-width="1"/>
+<rect x="26" y="10" width="2" height="2" stroke="red"
+				fill="red" stroke-width="1"/>
+<rect x="42" y="10" width="2" height="2" stroke="red"
+				fill="red" stroke-width="1"/>
+<rect x="43" y="10" width="2" height="2" stroke="red"
+				fill="red" stroke-width="1"/>
+<rect x="44" y="10" width="2" height="2" stroke="red"
+				fill="red" stroke-width="1"/>
+<rect x="45" y="10" width="2" height="2" stroke="red"
+				fill="red" stroke-width="1"/>
+<rect x="46" y="10" width="2" height="2" stroke="red"
+				fill="red" stroke-width="1"/>
+<rect x="47" y="10" width="2" height="2" stroke="red"
+				fill="red" stroke-width="1"/>
+<rect x="48" y="10" width="2" height="2" stroke="red"
+				fill="red" stroke-width="1"/>
+<rect x="49" y="10" width="2" height="2" stroke="red"
+				fill="red" stroke-width="1"/>
+<rect x="50" y="10" width="2" height="2" stroke="red"
+				fill="red" stroke-width="1"/>
+<rect x="51" y="10" width="2" height="2" stroke="red"
+				fill="red" stroke-width="1"/>
+<rect x="52" y="10" width="2" height="2" stroke="red"
+				fill="red" stroke-width="1"/>
+<rect x="58" y="10" width="2" height="2" stroke="red"
+				fill="red" stroke-width="1"/>
+<rect x="59" y="10" width="2" height="2" stroke="red"
+				fill="red" stroke-width="1"/>
+<rect x="64" y="10" width="2" height="2" stroke="red"
+				fill="red" stroke-width="1"/>
+<rect x="65" y="10" width="2" height="2" stroke="red"
+				fill="red" stroke-width="1"/>
+<rect x="68" y="10" width="2" height="2" stroke="red"
+				fill="red" stroke-width="1"/>
+<rect x="69" y="10" width="2" height="2" stroke="red"
+				fill="red" stroke-width="1"/>
+<rect x="74" y="10" width="2" height="2" stroke="red"
+				fill="red" stroke-width="1"/>
+<rect x="75" y="10" width="2" height="2" stroke="red"
+				fill="red" stroke-width="1"/>
+<rect x="97" y="10" width="2" height="2" stroke="red"
+				fill="red" stroke-width="1"/>
+<rect x="98" y="10" width="2" height="2" stroke="red"
+				fill="red" stroke-width="1"/>
+<rect x="105" y="10" width="2" height="2" stroke="red"
+				fill="red" stroke-width="1"/>
+<rect x="106" y="10" width="2" height="2" stroke="red"
+				fill="red" stroke-width="1"/>
+<rect x="113" y="10" width="2" height="2" stroke="red"
+				fill="red" stroke-width="1"/>
+<rect x="116" y="10" width="2" height="2" stroke="red"
+				fill="red" stroke-width="1"/>
+<rect x="117" y="10" width="2" height="2" stroke="red"
+				fill="red" stroke-width="1"/>
+<rect x="118" y="10" width="2" height="2" stroke="red"
+				fill="red" stroke-width="1"/>
+<rect x="26" y="12" width="2" height="2" stroke="red"
+				fill="red" stroke-width="1"/>
+<rect x="42" y="12" width="2" height="2" stroke="red"
+				fill="red" stroke-width="1"/>
+<rect x="52" y="12" width="2" height="2" stroke="red"
+				fill="red" stroke-width="1"/>
+<rect x="57" y="12" width="2" height="2" stroke="red"
+				fill="red" stroke-width="1"/>
+<rect x="58" y="12" width="2" height="2" stroke="red"
+				fill="red" stroke-width="1"/>
+<rect x="65" y="12" width="2" height="2" stroke="red"
+				fill="red" stroke-width="1"/>
+<rect x="66" y="12" width="2" height="2" stroke="red"
+				fill="red" stroke-width="1"/>
+<rect x="67" y="12" width="2" height="2" stroke="red"
+				fill="red" stroke-width="1"/>
+<rect x="68" y="12" width="2" height="2" stroke="red"
+				fill="red" stroke-width="1"/>
+<rect x="75" y="12" width="2" height="2" stroke="red"
+				fill="red" stroke-width="1"/>
+<rect x="76" y="12" width="2" height="2" stroke="red"
+				fill="red" stroke-width="1"/>
+<rect x="97" y="12" width="2" height="2" stroke="red"
+				fill="red" stroke-width="1"/>
+<rect x="106" y="12" width="2" height="2" stroke="red"
+				fill="red" stroke-width="1"/>
+<rect x="107" y="12" width="2" height="2" stroke="red"
+				fill="red" stroke-width="1"/>
+<rect x="113" y="12" width="2" height="2" stroke="red"
+				fill="red" stroke-width="1"/>
+<rect x="117" y="12" width="2" height="2" stroke="red"
+				fill="red" stroke-width="1"/>
+<rect x="118" y="12" width="2" height="2" stroke="red"
+				fill="red" stroke-width="1"/>
+<rect x="26" y="13" width="2" height="2" stroke="red"
+				fill="red" stroke-width="1"/>
+<rect x="40" y="13" width="2" height="2" stroke="red"
+				fill="red" stroke-width="1"/>
+<rect x="41" y="13" width="2" height="2" stroke="red"
+				fill="red" stroke-width="1"/>
+<rect x="42" y="13" width="2" height="2" stroke="red"
+				fill="red" stroke-width="1"/>
+<rect x="52" y="13" width="2" height="2" stroke="red"
+				fill="red" stroke-width="1"/>
+<rect x="53" y="13" width="2" height="2" stroke="red"
+				fill="red" stroke-width="1"/>
+<rect x="54" y="13" width="2" height="2" stroke="red"
+				fill="red" stroke-width="1"/>
+<rect x="57" y="13" width="2" height="2" stroke="red"
+				fill="red" stroke-width="1"/>
+<rect x="67" y="13" width="2" height="2" stroke="red"
+				fill="red" stroke-width="1"/>
+<rect x="76" y="13" width="2" height="2" stroke="red"
+				fill="red" stroke-width="1"/>
+<rect x="77" y="13" width="2" height="2" stroke="red"
+				fill="red" stroke-width="1"/>
+<rect x="23" y="15" width="2" height="2" stroke="red"
+				fill="red" stroke-width="1"/>
+<rect x="24" y="15" width="2" height="2" stroke="red"
+				fill="red" stroke-width="1"/>
+<rect x="25" y="15" width="2" height="2" stroke="red"
+				fill="red" stroke-width="1"/>
+<rect x="26" y="15" width="2" height="2" stroke="red"
+				fill="red" stroke-width="1"/>
+<rect x="27" y="15" width="2" height="2" stroke="red"
+				fill="red" stroke-width="1"/>
+<rect x="28" y="15" width="2" height="2" stroke="red"
+				fill="red" stroke-width="1"/>
+<rect x="67" y="19" width="2" height="2" stroke="yellow"
+				fill="yellow" stroke-width="1"/>
+<rect x="68" y="19" width="2" height="2" stroke="yellow"
+				fill="yellow" stroke-width="1"/>
+<rect x="69" y="19" width="2" height="2" stroke="red"
+				fill="red" stroke-width="1"/>
+<rect x="70" y="19" width="2" height="2" stroke="red"
+				fill="red" stroke-width="1"/>
+<rect x="71" y="19" width="2" height="2" stroke="yellow"
+				fill="yellow" stroke-width="1"/>
+<rect x="72" y="19" width="2" height="2" stroke="red"
+				fill="red" stroke-width="1"/>
+<rect x="73" y="19" width="2" height="2" stroke="yellow"
+				fill="yellow" stroke-width="1"/>
+<rect x="74" y="19" width="2" height="2" stroke="yellow"
+				fill="yellow" stroke-width="1"/>
+<rect x="65" y="21" width="2" height="2" stroke="yellow"
+				fill="yellow" stroke-width="1"/>
+<rect x="66" y="21" width="2" height="2" stroke="yellow"
+				fill="yellow" stroke-width="1"/>
+<rect x="67" y="21" width="2" height="2" stroke="yellow"
+				fill="yellow" stroke-width="1"/>
+<rect x="68" y="21" width="2" height="2" stroke="yellow"
+				fill="yellow" stroke-width="1"/>
+<rect x="69" y="21" width="2" height="2" stroke="yellow"
+				fill="yellow" stroke-width="1"/>
+<rect x="70" y="21" width="2" height="2" stroke="yellow"
+				fill="yellow" stroke-width="1"/>
+<rect x="71" y="21" width="2" height="2" stroke="yellow"
+				fill="yellow" stroke-width="1"/>
+<rect x="72" y="21" width="2" height="2" stroke="red"
+				fill="red" stroke-width="1"/>
+<rect x="73" y="21" width="2" height="2" stroke="red"
+				fill="red" stroke-width="1"/>
+<rect x="74" y="21" width="2" height="2" stroke="red"
+				fill="red" stroke-width="1"/>
+<rect x="75" y="21" width="2" height="2" stroke="yellow"
+				fill="yellow" stroke-width="1"/>
+<rect x="76" y="21" width="2" height="2" stroke="yellow"
+				fill="yellow" stroke-width="1"/>
+<rect x="63" y="22" width="2" height="2" stroke="yellow"
+				fill="yellow" stroke-width="1"/>
+<rect x="64" y="22" width="2" height="2" stroke="yellow"
+				fill="yellow" stroke-width="1"/>
+<rect x="65" y="22" width="2" height="2" stroke="yellow"
+				fill="yellow" stroke-width="1"/>
+<rect x="66" y="22" width="2" height="2" stroke="yellow"
+				fill="yellow" stroke-width="1"/>
+<rect x="67" y="22" width="2" height="2" stroke="red"
+				fill="red" stroke-width="1"/>
+<rect x="68" y="22" width="2" height="2" stroke="red"
+				fill="red" stroke-width="1"/>
+<rect x="69" y="22" width="2" height="2" stroke="yellow"
+				fill="yellow" stroke-width="1"/>
+<rect x="70" y="22" width="2" height="2" stroke="red"
+				fill="red" stroke-width="1"/>
+<rect x="71" y="22" width="2" height="2" stroke="yellow"
+				fill="yellow" stroke-width="1"/>
+<rect x="72" y="22" width="2" height="2" stroke="yellow"
+				fill="yellow" stroke-width="1"/>
+<rect x="73" y="22" width="2" height="2" stroke="yellow"
+				fill="yellow" stroke-width="1"/>
+<rect x="74" y="22" width="2" height="2" stroke="red"
+				fill="red" stroke-width="1"/>
+<rect x="75" y="22" width="2" height="2" stroke="red"
+				fill="red" stroke-width="1"/>
+<rect x="76" y="22" width="2" height="2" stroke="red"
+				fill="red" stroke-width="1"/>
+<rect x="77" y="22" width="2" height="2" stroke="yellow"
+				fill="yellow" stroke-width="1"/>
+<rect x="78" y="22" width="2" height="2" stroke="yellow"
+				fill="yellow" stroke-width="1"/>
+<rect x="61" y="24" width="2" height="2" stroke="yellow"
+				fill="yellow" stroke-width="1"/>
+<rect x="62" y="24" width="2" height="2" stroke="yellow"
+				fill="yellow" stroke-width="1"/>
+<rect x="63" y="24" width="2" height="2" stroke="yellow"
+				fill="yellow" stroke-width="1"/>
+<rect x="64" y="24" width="2" height="2" stroke="yellow"
+				fill="yellow" stroke-width="1"/>
+<rect x="65" y="24" width="2" height="2" stroke="yellow"
+				fill="yellow" stroke-width="1"/>
+<rect x="66" y="24" width="2" height="2" stroke="yellow"
+				fill="yellow" stroke-width="1"/>
+<rect x="67" y="24" width="2" height="2" stroke="red"
+				fill="red" stroke-width="1"/>
+<rect x="68" y="24" width="2" height="2" stroke="red"
+				fill="red" stroke-width="1"/>
+<rect x="69" y="24" width="2" height="2" stroke="yellow"
+				fill="yellow" stroke-width="1"/>
+<rect x="70" y="24" width="2" height="2" stroke="red"
+				fill="red" stroke-width="1"/>
+<rect x="71" y="24" width="2" height="2" stroke="yellow"
+				fill="yellow" stroke-width="1"/>
+<rect x="72" y="24" width="2" height="2" stroke="yellow"
+				fill="yellow" stroke-width="1"/>
+<rect x="73" y="24" width="2" height="2" stroke="yellow"
+				fill="yellow" stroke-width="1"/>
+<rect x="74" y="24" width="2" height="2" stroke="yellow"
+				fill="yellow" stroke-width="1"/>
+<rect x="75" y="24" width="2" height="2" stroke="red"
+				fill="red" stroke-width="1"/>
+<rect x="76" y="24" width="2" height="2" stroke="red"
+				fill="red" stroke-width="1"/>
+<rect x="77" y="24" width="2" height="2" stroke="red"
+				fill="red" stroke-width="1"/>
+<rect x="78" y="24" width="2" height="2" stroke="red"
+				fill="red" stroke-width="1"/>
+<rect x="79" y="24" width="2" height="2" stroke="yellow"
+				fill="yellow" stroke-width="1"/>
+<rect x="80" y="24" width="2" height="2" stroke="yellow"
+				fill="yellow" stroke-width="1"/>
+<rect x="59" y="25" width="2" height="2" stroke="yellow"
+				fill="yellow" stroke-width="1"/>
+<rect x="60" y="25" width="2" height="2" stroke="yellow"
+				fill="yellow" stroke-width="1"/>
+<rect x="61" y="25" width="2" height="2" stroke="yellow"
+				fill="yellow" stroke-width="1"/>
+<rect x="62" y="25" width="2" height="2" stroke="yellow"
+				fill="yellow" stroke-width="1"/>
+<rect x="63" y="25" width="2" height="2" stroke="yellow"
+				fill="yellow" stroke-width="1"/>
+<rect x="64" y="25" width="2" height="2" stroke="yellow"
+				fill="yellow" stroke-width="1"/>
+<rect x="65" y="25" width="2" height="2" stroke="yellow"
+				fill="yellow" stroke-width="1"/>
+<rect x="66" y="25" width="2" height="2" stroke="yellow"
+				fill="yellow" stroke-width="1"/>
+<rect x="67" y="25" width="2" height="2" stroke="yellow"
+				fill="yellow" stroke-width="1"/>
+<rect x="68" y="25" width="2" height="2" stroke="yellow"
+				fill="yellow" stroke-width="1"/>
+<rect x="69" y="25" width="2" height="2" stroke="yellow"
+				fill="yellow" stroke-width="1"/>
+<rect x="70" y="25" width="2" height="2" stroke="yellow"
+				fill="yellow" stroke-width="1"/>
+<rect x="71" y="25" width="2" height="2" stroke="yellow"
+				fill="yellow" stroke-width="1"/>
+<rect x="72" y="25" width="2" height="2" stroke="yellow"
+				fill="yellow" stroke-width="1"/>
+<rect x="73" y="25" width="2" height="2" stroke="yellow"
+				fill="yellow" stroke-width="1"/>
+<rect x="74" y="25" width="2" height="2" stroke="red"
+				fill="red" stroke-width="1"/>
+<rect x="75" y="25" width="2" height="2" stroke="red"
+				fill="red" stroke-width="1"/>
+<rect x="76" y="25" width="2" height="2" stroke="red"
+				fill="red" stroke-width="1"/>
+<rect x="77" y="25" width="2" height="2" stroke="red"
+				fill="red" stroke-width="1"/>
+<rect x="78" y="25" width="2" height="2" stroke="red"
+				fill="red" stroke-width="1"/>
+<rect x="79" y="25" width="2" height="2" stroke="yellow"
+				fill="yellow" stroke-width="1"/>
+<rect x="80" y="25" width="2" height="2" stroke="yellow"
+				fill="yellow" stroke-width="1"/>
+<rect x="81" y="25" width="2" height="2" stroke="yellow"
+				fill="yellow" stroke-width="1"/>
+<rect x="82" y="25" width="2" height="2" stroke="yellow"
+				fill="yellow" stroke-width="1"/>
+<rect x="7" y="27" width="2" height="2" stroke="black"
+				fill="black" stroke-width="1"/>
+<rect x="57" y="27" width="2" height="2" stroke="yellow"
+				fill="yellow" stroke-width="1"/>
+<rect x="58" y="27" width="2" height="2" stroke="yellow"
+				fill="yellow" stroke-width="1"/>
+<rect x="59" y="27" width="2" height="2" stroke="yellow"
+				fill="yellow" stroke-width="1"/>
+<rect x="60" y="27" width="2" height="2" stroke="yellow"
+				fill="yellow" stroke-width="1"/>
+<rect x="61" y="27" width="2" height="2" stroke="yellow"
+				fill="yellow" stroke-width="1"/>
+<rect x="62" y="27" width="2" height="2" stroke="yellow"
+				fill="yellow" stroke-width="1"/>
+<rect x="63" y="27" width="2" height="2" stroke="yellow"
+				fill="yellow" stroke-width="1"/>
+<rect x="64" y="27" width="2" height="2" stroke="yellow"
+				fill="yellow" stroke-width="1"/>
+<rect x="65" y="27" width="2" height="2" stroke="yellow"
+				fill="yellow" stroke-width="1"/>
+<rect x="66" y="27" width="2" height="2" stroke="darkgrey"
+				fill="darkgrey" stroke-width="1"/>
+<rect x="67" y="27" width="2" height="2" stroke="darkgrey"
+				fill="darkgrey" stroke-width="1"/>
+<rect x="68" y="27" width="2" height="2" stroke="blue"
+				fill="blue" stroke-width="1"/>
+<rect x="69" y="27" width="2" height="2" stroke="darkgrey"
+				fill="darkgrey" stroke-width="1"/>
+<rect x="70" y="27" width="2" height="2" stroke="darkgrey"
+				fill="darkgrey" stroke-width="1"/>
+<rect x="71" y="27" width="2" height="2" stroke="darkgrey"
+				fill="darkgrey" stroke-width="1"/>
+<rect x="72" y="27" width="2" height="2" stroke="darkgrey"
+				fill="darkgrey" stroke-width="1"/>
+<rect x="73" y="27" width="2" height="2" stroke="blue"
+				fill="blue" stroke-width="1"/>
+<rect x="74" y="27" width="2" height="2" stroke="darkgrey"
+				fill="darkgrey" stroke-width="1"/>
+<rect x="75" y="27" width="2" height="2" stroke="darkgrey"
+				fill="darkgrey" stroke-width="1"/>
+<rect x="76" y="27" width="2" height="2" stroke="darkgrey"
+				fill="darkgrey" stroke-width="1"/>
+<rect x="77" y="27" width="2" height="2" stroke="yellow"
+				fill="yellow" stroke-width="1"/>
+<rect x="78" y="27" width="2" height="2" stroke="yellow"
+				fill="yellow" stroke-width="1"/>
+<rect x="79" y="27" width="2" height="2" stroke="yellow"
+				fill="yellow" stroke-width="1"/>
+<rect x="80" y="27" width="2" height="2" stroke="yellow"
+				fill="yellow" stroke-width="1"/>
+<rect x="81" y="27" width="2" height="2" stroke="yellow"
+				fill="yellow" stroke-width="1"/>
+<rect x="82" y="27" width="2" height="2" stroke="yellow"
+				fill="yellow" stroke-width="1"/>
+<rect x="83" y="27" width="2" height="2" stroke="yellow"
+				fill="yellow" stroke-width="1"/>
+<rect x="84" y="27" width="2" height="2" stroke="yellow"
+				fill="yellow" stroke-width="1"/>
+<rect x="65" y="28" width="2" height="2" stroke="gray"
+				fill="gray" stroke-width="1"/>
+<rect x="66" y="28" width="2" height="2" stroke="darkgrey"
+				fill="darkgrey" stroke-width="1"/>
+<rect x="67" y="28" width="2" height="2" stroke="darkgrey"
+				fill="darkgrey" stroke-width="1"/>
+<rect x="68" y="28" width="2" height="2" stroke="darkgrey"
+				fill="darkgrey" stroke-width="1"/>
+<rect x="69" y="28" width="2" height="2" stroke="darkgrey"
+				fill="darkgrey" stroke-width="1"/>
+<rect x="70" y="28" width="2" height="2" stroke="gray"
+				fill="gray" stroke-width="1"/>
+<rect x="71" y="28" width="2" height="2" stroke="gray"
+				fill="gray" stroke-width="1"/>
+<rect x="72" y="28" width="2" height="2" stroke="darkgrey"
+				fill="darkgrey" stroke-width="1"/>
+<rect x="73" y="28" width="2" height="2" stroke="darkgrey"
+				fill="darkgrey" stroke-width="1"/>
+<rect x="74" y="28" width="2" height="2" stroke="darkgrey"
+				fill="darkgrey" stroke-width="1"/>
+<rect x="75" y="28" width="2" height="2" stroke="darkgrey"
+				fill="darkgrey" stroke-width="1"/>
+<rect x="76" y="28" width="2" height="2" stroke="darkgrey"
+				fill="darkgrey" stroke-width="1"/>
+<rect x="77" y="28" width="2" height="2" stroke="gray"
+				fill="gray" stroke-width="1"/>
+<rect x="65" y="30" width="2" height="2" stroke="gray"
+				fill="gray" stroke-width="1"/>
+<rect x="66" y="30" width="2" height="2" stroke="gray"
+				fill="gray" stroke-width="1"/>
+<rect x="67" y="30" width="2" height="2" stroke="gray"
+				fill="gray" stroke-width="1"/>
+<rect x="68" y="30" width="2" height="2" stroke="gray"
+				fill="gray" stroke-width="1"/>
+<rect x="69" y="30" width="2" height="2" stroke="gray"
+				fill="gray" stroke-width="1"/>
+<rect x="70" y="30" width="2" height="2" stroke="gray"
+				fill="gray" stroke-width="1"/>
+<rect x="71" y="30" width="2" height="2" stroke="gray"
+				fill="gray" stroke-width="1"/>
+<rect x="72" y="30" width="2" height="2" stroke="gray"
+				fill="gray" stroke-width="1"/>
+<rect x="73" y="30" width="2" height="2" stroke="gray"
+				fill="gray" stroke-width="1"/>
+<rect x="74" y="30" width="2" height="2" stroke="gray"
+				fill="gray" stroke-width="1"/>
+<rect x="75" y="30" width="2" height="2" stroke="gray"
+				fill="gray" stroke-width="1"/>
+<rect x="76" y="30" width="2" height="2" stroke="gray"
+				fill="gray" stroke-width="1"/>
+<rect x="77" y="30" width="2" height="2" stroke="gray"
+				fill="gray" stroke-width="1"/>
+<rect x="64" y="31" width="2" height="2" stroke="gray"
+				fill="gray" stroke-width="1"/>
+<rect x="65" y="31" width="2" height="2" stroke="gray"
+				fill="gray" stroke-width="1"/>
+<rect x="66" y="31" width="2" height="2" stroke="gray"
+				fill="gray" stroke-width="1"/>
+<rect x="67" y="31" width="2" height="2" stroke="darkgrey"
+				fill="darkgrey" stroke-width="1"/>
+<rect x="68" y="31" width="2" height="2" stroke="yellow"
+				fill="yellow" stroke-width="1"/>
+<rect x="69" y="31" width="2" height="2" stroke="yellow"
+				fill="yellow" stroke-width="1"/>
+<rect x="70" y="31" width="2" height="2" stroke="yellow"
+				fill="yellow" stroke-width="1"/>
+<rect x="71" y="31" width="2" height="2" stroke="yellow"
+				fill="yellow" stroke-width="1"/>
+<rect x="72" y="31" width="2" height="2" stroke="yellow"
+				fill="yellow" stroke-width="1"/>
+<rect x="73" y="31" width="2" height="2" stroke="yellow"
+				fill="yellow" stroke-width="1"/>
+<rect x="74" y="31" width="2" height="2" stroke="yellow"
+				fill="yellow" stroke-width="1"/>
+<rect x="75" y="31" width="2" height="2" stroke="darkgrey"
+				fill="darkgrey" stroke-width="1"/>
+<rect x="76" y="31" width="2" height="2" stroke="gray"
+				fill="gray" stroke-width="1"/>
+<rect x="77" y="31" width="2" height="2" stroke="gray"
+				fill="gray" stroke-width="1"/>
+<rect x="78" y="31" width="2" height="2" stroke="gray"
+				fill="gray" stroke-width="1"/>
+<rect x="64" y="33" width="2" height="2" stroke="gray"
+				fill="gray" stroke-width="1"/>
+<rect x="65" y="33" width="2" height="2" stroke="gray"
+				fill="gray" stroke-width="1"/>
+<rect x="66" y="33" width="2" height="2" stroke="gray"
+				fill="gray" stroke-width="1"/>
+<rect x="67" y="33" width="2" height="2" stroke="yellow"
+				fill="yellow" stroke-width="1"/>
+<rect x="68" y="33" width="2" height="2" stroke="darkgrey"
+				fill="darkgrey" stroke-width="1"/>
+<rect x="69" y="33" width="2" height="2" stroke="darkgrey"
+				fill="darkgrey" stroke-width="1"/>
+<rect x="70" y="33" width="2" height="2" stroke="darkgrey"
+				fill="darkgrey" stroke-width="1"/>
+<rect x="71" y="33" width="2" height="2" stroke="darkgrey"
+				fill="darkgrey" stroke-width="1"/>
+<rect x="72" y="33" width="2" height="2" stroke="darkgrey"
+				fill="darkgrey" stroke-width="1"/>
+<rect x="73" y="33" width="2" height="2" stroke="darkgrey"
+				fill="darkgrey" stroke-width="1"/>
+<rect x="74" y="33" width="2" height="2" stroke="darkgrey"
+				fill="darkgrey" stroke-width="1"/>
+<rect x="75" y="33" width="2" height="2" stroke="yellow"
+				fill="yellow" stroke-width="1"/>
+<rect x="76" y="33" width="2" height="2" stroke="gray"
+				fill="gray" stroke-width="1"/>
+<rect x="77" y="33" width="2" height="2" stroke="gray"
+				fill="gray" stroke-width="1"/>
+<rect x="78" y="33" width="2" height="2" stroke="gray"
+				fill="gray" stroke-width="1"/>
+<rect x="64" y="34" width="2" height="2" stroke="gray"
+				fill="gray" stroke-width="1"/>
+<rect x="65" y="34" width="2" height="2" stroke="gray"
+				fill="gray" stroke-width="1"/>
+<rect x="66" y="34" width="2" height="2" stroke="gray"
+				fill="gray" stroke-width="1"/>
+<rect x="67" y="34" width="2" height="2" stroke="gray"
+				fill="gray" stroke-width="1"/>
+<rect x="68" y="34" width="2" height="2" stroke="gray"
+				fill="gray" stroke-width="1"/>
+<rect x="69" y="34" width="2" height="2" stroke="gray"
+				fill="gray" stroke-width="1"/>
+<rect x="70" y="34" width="2" height="2" stroke="gray"
+				fill="gray" stroke-width="1"/>
+<rect x="71" y="34" width="2" height="2" stroke="gray"
+				fill="gray" stroke-width="1"/>
+<rect x="72" y="34" width="2" height="2" stroke="gray"
+				fill="gray" stroke-width="1"/>
+<rect x="73" y="34" width="2" height="2" stroke="gray"
+				fill="gray" stroke-width="1"/>
+<rect x="74" y="34" width="2" height="2" stroke="gray"
+				fill="gray" stroke-width="1"/>
+<rect x="75" y="34" width="2" height="2" stroke="gray"
+				fill="gray" stroke-width="1"/>
+<rect x="76" y="34" width="2" height="2" stroke="gray"
+				fill="gray" stroke-width="1"/>
+<rect x="77" y="34" width="2" height="2" stroke="gray"
+				fill="gray" stroke-width="1"/>
+<rect x="78" y="34" width="2" height="2" stroke="gray"
+				fill="gray" stroke-width="1"/>
+<rect x="97" y="42" width="2" height="2" stroke="red"
+				fill="red" stroke-width="1"/>
+<rect x="98" y="42" width="2" height="2" stroke="red"
+				fill="red" stroke-width="1"/>
+<rect x="106" y="42" width="2" height="2" stroke="red"
+				fill="red" stroke-width="1"/>
+<rect x="107" y="42" width="2" height="2" stroke="red"
+				fill="red" stroke-width="1"/>
+<rect x="123" y="42" width="2" height="2" stroke="red"
+				fill="red" stroke-width="1"/>
+<rect x="131" y="42" width="2" height="2" stroke="red"
+				fill="red" stroke-width="1"/>
+<rect x="132" y="42" width="2" height="2" stroke="red"
+				fill="red" stroke-width="1"/>
+<rect x="23" y="43" width="2" height="2" stroke="red"
+				fill="red" stroke-width="1"/>
+<rect x="24" y="43" width="2" height="2" stroke="red"
+				fill="red" stroke-width="1"/>
+<rect x="25" y="43" width="2" height="2" stroke="red"
+				fill="red" stroke-width="1"/>
+<rect x="26" y="43" width="2" height="2" stroke="red"
+				fill="red" stroke-width="1"/>
+<rect x="27" y="43" width="2" height="2" stroke="red"
+				fill="red" stroke-width="1"/>
+<rect x="28" y="43" width="2" height="2" stroke="red"
+				fill="red" stroke-width="1"/>
+<rect x="34" y="43" width="2" height="2" stroke="red"
+				fill="red" stroke-width="1"/>
+<rect x="43" y="43" width="2" height="2" stroke="red"
+				fill="red" stroke-width="1"/>
+<rect x="44" y="43" width="2" height="2" stroke="red"
+				fill="red" stroke-width="1"/>
+<rect x="96" y="43" width="2" height="2" stroke="red"
+				fill="red" stroke-width="1"/>
+<rect x="97" y="43" width="2" height="2" stroke="red"
+				fill="red" stroke-width="1"/>
+<rect x="98" y="43" width="2" height="2" stroke="red"
+				fill="red" stroke-width="1"/>
+<rect x="99" y="43" width="2" height="2" stroke="red"
+				fill="red" stroke-width="1"/>
+<rect x="105" y="43" width="2" height="2" stroke="red"
+				fill="red" stroke-width="1"/>
+<rect x="106" y="43" width="2" height="2" stroke="red"
+				fill="red" stroke-width="1"/>
+<rect x="107" y="43" width="2" height="2" stroke="red"
+				fill="red" stroke-width="1"/>
+<rect x="108" y="43" width="2" height="2" stroke="red"
+				fill="red" stroke-width="1"/>
+<rect x="115" y="43" width="2" height="2" stroke="red"
+				fill="red" stroke-width="1"/>
+<rect x="123" y="43" width="2" height="2" stroke="red"
+				fill="red" stroke-width="1"/>
+<rect x="130" y="43" width="2" height="2" stroke="red"
+				fill="red" stroke-width="1"/>
+<rect x="131" y="43" width="2" height="2" stroke="red"
+				fill="red" stroke-width="1"/>
+<rect x="132" y="43" width="2" height="2" stroke="red"
+				fill="red" stroke-width="1"/>
+<rect x="143" y="43" width="2" height="2" stroke="red"
+				fill="red" stroke-width="1"/>
+<rect x="149" y="43" width="2" height="2" stroke="red"
+				fill="red" stroke-width="1"/>
+<rect x="23" y="45" width="2" height="2" stroke="red"
+				fill="red" stroke-width="1"/>
+<rect x="34" y="45" width="2" height="2" stroke="red"
+				fill="red" stroke-width="1"/>
+<rect x="35" y="45" width="2" height="2" stroke="red"
+				fill="red" stroke-width="1"/>
+<rect x="42" y="45" width="2" height="2" stroke="red"
+				fill="red" stroke-width="1"/>
+<rect x="43" y="45" width="2" height="2" stroke="red"
+				fill="red" stroke-width="1"/>
+<rect x="49" y="45" width="2" height="2" stroke="red"
+				fill="red" stroke-width="1"/>
+<rect x="50" y="45" width="2" height="2" stroke="red"
+				fill="red" stroke-width="1"/>
+<rect x="51" y="45" width="2" height="2" stroke="red"
+				fill="red" stroke-width="1"/>
+<rect x="52" y="45" width="2" height="2" stroke="red"
+				fill="red" stroke-width="1"/>
+<rect x="53" y="45" width="2" height="2" stroke="red"
+				fill="red" stroke-width="1"/>
+<rect x="54" y="45" width="2" height="2" stroke="red"
+				fill="red" stroke-width="1"/>
+<rect x="55" y="45" width="2" height="2" stroke="red"
+				fill="red" stroke-width="1"/>
+<rect x="56" y="45" width="2" height="2" stroke="red"
+				fill="red" stroke-width="1"/>
+<rect x="57" y="45" width="2" height="2" stroke="red"
+				fill="red" stroke-width="1"/>
+<rect x="58" y="45" width="2" height="2" stroke="red"
+				fill="red" stroke-width="1"/>
+<rect x="59" y="45" width="2" height="2" stroke="red"
+				fill="red" stroke-width="1"/>
+<rect x="71" y="45" width="2" height="2" stroke="red"
+				fill="red" stroke-width="1"/>
+<rect x="95" y="45" width="2" height="2" stroke="red"
+				fill="red" stroke-width="1"/>
+<rect x="96" y="45" width="2" height="2" stroke="red"
+				fill="red" stroke-width="1"/>
+<rect x="99" y="45" width="2" height="2" stroke="red"
+				fill="red" stroke-width="1"/>
+<rect x="100" y="45" width="2" height="2" stroke="red"
+				fill="red" stroke-width="1"/>
+<rect x="104" y="45" width="2" height="2" stroke="red"
+				fill="red" stroke-width="1"/>
+<rect x="105" y="45" width="2" height="2" stroke="red"
+				fill="red" stroke-width="1"/>
+<rect x="108" y="45" width="2" height="2" stroke="red"
+				fill="red" stroke-width="1"/>
+<rect x="109" y="45" width="2" height="2" stroke="red"
+				fill="red" stroke-width="1"/>
+<rect x="115" y="45" width="2" height="2" stroke="red"
+				fill="red" stroke-width="1"/>
+<rect x="123" y="45" width="2" height="2" stroke="red"
+				fill="red" stroke-width="1"/>
+<rect x="129" y="45" width="2" height="2" stroke="red"
+				fill="red" stroke-width="1"/>
+<rect x="130" y="45" width="2" height="2" stroke="red"
+				fill="red" stroke-width="1"/>
+<rect x="132" y="45" width="2" height="2" stroke="red"
+				fill="red" stroke-width="1"/>
+<rect x="143" y="45" width="2" height="2" stroke="red"
+				fill="red" stroke-width="1"/>
+<rect x="149" y="45" width="2" height="2" stroke="red"
+				fill="red" stroke-width="1"/>
+<rect x="23" y="46" width="2" height="2" stroke="red"
+				fill="red" stroke-width="1"/>
+<rect x="35" y="46" width="2" height="2" stroke="red"
+				fill="red" stroke-width="1"/>
+<rect x="36" y="46" width="2" height="2" stroke="red"
+				fill="red" stroke-width="1"/>
+<rect x="41" y="46" width="2" height="2" stroke="red"
+				fill="red" stroke-width="1"/>
+<rect x="42" y="46" width="2" height="2" stroke="red"
+				fill="red" stroke-width="1"/>
+<rect x="52" y="46" width="2" height="2" stroke="red"
+				fill="red" stroke-width="1"/>
+<rect x="71" y="46" width="2" height="2" stroke="red"
+				fill="red" stroke-width="1"/>
+<rect x="94" y="46" width="2" height="2" stroke="red"
+				fill="red" stroke-width="1"/>
+<rect x="95" y="46" width="2" height="2" stroke="red"
+				fill="red" stroke-width="1"/>
+<rect x="100" y="46" width="2" height="2" stroke="red"
+				fill="red" stroke-width="1"/>
+<rect x="101" y="46" width="2" height="2" stroke="red"
+				fill="red" stroke-width="1"/>
+<rect x="103" y="46" width="2" height="2" stroke="red"
+				fill="red" stroke-width="1"/>
+<rect x="104" y="46" width="2" height="2" stroke="red"
+				fill="red" stroke-width="1"/>
+<rect x="109" y="46" width="2" height="2" stroke="red"
+				fill="red" stroke-width="1"/>
+<rect x="110" y="46" width="2" height="2" stroke="red"
+				fill="red" stroke-width="1"/>
+<rect x="115" y="46" width="2" height="2" stroke="red"
+				fill="red" stroke-width="1"/>
+<rect x="116" y="46" width="2" height="2" stroke="red"
+				fill="red" stroke-width="1"/>
+<rect x="117" y="46" width="2" height="2" stroke="red"
+				fill="red" stroke-width="1"/>
+<rect x="121" y="46" width="2" height="2" stroke="red"
+				fill="red" stroke-width="1"/>
+<rect x="122" y="46" width="2" height="2" stroke="red"
+				fill="red" stroke-width="1"/>
+<rect x="123" y="46" width="2" height="2" stroke="red"
+				fill="red" stroke-width="1"/>
+<rect x="129" y="46" width="2" height="2" stroke="red"
+				fill="red" stroke-width="1"/>
+<rect x="143" y="46" width="2" height="2" stroke="red"
+				fill="red" stroke-width="1"/>
+<rect x="144" y="46" width="2" height="2" stroke="red"
+				fill="red" stroke-width="1"/>
+<rect x="145" y="46" width="2" height="2" stroke="red"
+				fill="red" stroke-width="1"/>
+<rect x="146" y="46" width="2" height="2" stroke="red"
+				fill="red" stroke-width="1"/>
+<rect x="147" y="46" width="2" height="2" stroke="red"
+				fill="red" stroke-width="1"/>
+<rect x="148" y="46" width="2" height="2" stroke="red"
+				fill="red" stroke-width="1"/>
+<rect x="149" y="46" width="2" height="2" stroke="red"
+				fill="red" stroke-width="1"/>
+<rect x="156" y="46" width="2" height="2" stroke="red"
+				fill="red" stroke-width="1"/>
+<rect x="157" y="46" width="2" height="2" stroke="red"
+				fill="red" stroke-width="1"/>
+<rect x="158" y="46" width="2" height="2" stroke="red"
+				fill="red" stroke-width="1"/>
+<rect x="159" y="46" width="2" height="2" stroke="red"
+				fill="red" stroke-width="1"/>
+<rect x="160" y="46" width="2" height="2" stroke="red"
+				fill="red" stroke-width="1"/>
+<rect x="161" y="46" width="2" height="2" stroke="red"
+				fill="red" stroke-width="1"/>
+<rect x="162" y="46" width="2" height="2" stroke="red"
+				fill="red" stroke-width="1"/>
+<rect x="23" y="48" width="2" height="2" stroke="red"
+				fill="red" stroke-width="1"/>
+<rect x="24" y="48" width="2" height="2" stroke="red"
+				fill="red" stroke-width="1"/>
+<rect x="25" y="48" width="2" height="2" stroke="red"
+				fill="red" stroke-width="1"/>
+<rect x="26" y="48" width="2" height="2" stroke="red"
+				fill="red" stroke-width="1"/>
+<rect x="27" y="48" width="2" height="2" stroke="red"
+				fill="red" stroke-width="1"/>
+<rect x="28" y="48" width="2" height="2" stroke="red"
+				fill="red" stroke-width="1"/>
+<rect x="29" y="48" width="2" height="2" stroke="red"
+				fill="red" stroke-width="1"/>
+<rect x="36" y="48" width="2" height="2" stroke="red"
+				fill="red" stroke-width="1"/>
+<rect x="37" y="48" width="2" height="2" stroke="red"
+				fill="red" stroke-width="1"/>
+<rect x="40" y="48" width="2" height="2" stroke="red"
+				fill="red" stroke-width="1"/>
+<rect x="41" y="48" width="2" height="2" stroke="red"
+				fill="red" stroke-width="1"/>
+<rect x="52" y="48" width="2" height="2" stroke="red"
+				fill="red" stroke-width="1"/>
+<rect x="71" y="48" width="2" height="2" stroke="red"
+				fill="red" stroke-width="1"/>
+<rect x="93" y="48" width="2" height="2" stroke="red"
+				fill="red" stroke-width="1"/>
+<rect x="94" y="48" width="2" height="2" stroke="red"
+				fill="red" stroke-width="1"/>
+<rect x="101" y="48" width="2" height="2" stroke="red"
+				fill="red" stroke-width="1"/>
+<rect x="102" y="48" width="2" height="2" stroke="red"
+				fill="red" stroke-width="1"/>
+<rect x="103" y="48" width="2" height="2" stroke="red"
+				fill="red" stroke-width="1"/>
+<rect x="110" y="48" width="2" height="2" stroke="red"
+				fill="red" stroke-width="1"/>
+<rect x="111" y="48" width="2" height="2" stroke="red"
+				fill="red" stroke-width="1"/>
+<rect x="117" y="48" width="2" height="2" stroke="red"
+				fill="red" stroke-width="1"/>
+<rect x="121" y="48" width="2" height="2" stroke="red"
+				fill="red" stroke-width="1"/>
+<rect x="129" y="48" width="2" height="2" stroke="red"
+				fill="red" stroke-width="1"/>
+<rect x="130" y="48" width="2" height="2" stroke="red"
+				fill="red" stroke-width="1"/>
+<rect x="143" y="48" width="2" height="2" stroke="red"
+				fill="red" stroke-width="1"/>
+<rect x="149" y="48" width="2" height="2" stroke="red"
+				fill="red" stroke-width="1"/>
+<rect x="23" y="49" width="2" height="2" stroke="red"
+				fill="red" stroke-width="1"/>
+<rect x="37" y="49" width="2" height="2" stroke="red"
+				fill="red" stroke-width="1"/>
+<rect x="38" y="49" width="2" height="2" stroke="red"
+				fill="red" stroke-width="1"/>
+<rect x="39" y="49" width="2" height="2" stroke="red"
+				fill="red" stroke-width="1"/>
+<rect x="40" y="49" width="2" height="2" stroke="red"
+				fill="red" stroke-width="1"/>
+<rect x="52" y="49" width="2" height="2" stroke="red"
+				fill="red" stroke-width="1"/>
+<rect x="71" y="49" width="2" height="2" stroke="red"
+				fill="red" stroke-width="1"/>
+<rect x="92" y="49" width="2" height="2" stroke="red"
+				fill="red" stroke-width="1"/>
+<rect x="93" y="49" width="2" height="2" stroke="red"
+				fill="red" stroke-width="1"/>
+<rect x="102" y="49" width="2" height="2" stroke="red"
+				fill="red" stroke-width="1"/>
+<rect x="111" y="49" width="2" height="2" stroke="red"
+				fill="red" stroke-width="1"/>
+<rect x="112" y="49" width="2" height="2" stroke="red"
+				fill="red" stroke-width="1"/>
+<rect x="117" y="49" width="2" height="2" stroke="red"
+				fill="red" stroke-width="1"/>
+<rect x="118" y="49" width="2" height="2" stroke="red"
+				fill="red" stroke-width="1"/>
+<rect x="119" y="49" width="2" height="2" stroke="red"
+				fill="red" stroke-width="1"/>
+<rect x="120" y="49" width="2" height="2" stroke="red"
+				fill="red" stroke-width="1"/>
+<rect x="121" y="49" width="2" height="2" stroke="red"
+				fill="red" stroke-width="1"/>
+<rect x="130" y="49" width="2" height="2" stroke="red"
+				fill="red" stroke-width="1"/>
+<rect x="131" y="49" width="2" height="2" stroke="red"
+				fill="red" stroke-width="1"/>
+<rect x="143" y="49" width="2" height="2" stroke="red"
+				fill="red" stroke-width="1"/>
+<rect x="149" y="49" width="2" height="2" stroke="red"
+				fill="red" stroke-width="1"/>
+<rect x="23" y="51" width="2" height="2" stroke="red"
+				fill="red" stroke-width="1"/>
+<rect x="38" y="51" width="2" height="2" stroke="red"
+				fill="red" stroke-width="1"/>
+<rect x="39" y="51" width="2" height="2" stroke="red"
+				fill="red" stroke-width="1"/>
+<rect x="48" y="51" width="2" height="2" stroke="red"
+				fill="red" stroke-width="1"/>
+<rect x="49" y="51" width="2" height="2" stroke="red"
+				fill="red" stroke-width="1"/>
+<rect x="50" y="51" width="2" height="2" stroke="red"
+				fill="red" stroke-width="1"/>
+<rect x="51" y="51" width="2" height="2" stroke="red"
+				fill="red" stroke-width="1"/>
+<rect x="52" y="51" width="2" height="2" stroke="red"
+				fill="red" stroke-width="1"/>
+<rect x="53" y="51" width="2" height="2" stroke="red"
+				fill="red" stroke-width="1"/>
+<rect x="54" y="51" width="2" height="2" stroke="red"
+				fill="red" stroke-width="1"/>
+<rect x="55" y="51" width="2" height="2" stroke="red"
+				fill="red" stroke-width="1"/>
+<rect x="56" y="51" width="2" height="2" stroke="red"
+				fill="red" stroke-width="1"/>
+<rect x="71" y="51" width="2" height="2" stroke="red"
+				fill="red" stroke-width="1"/>
+<rect x="72" y="51" width="2" height="2" stroke="red"
+				fill="red" stroke-width="1"/>
+<rect x="73" y="51" width="2" height="2" stroke="red"
+				fill="red" stroke-width="1"/>
+<rect x="74" y="51" width="2" height="2" stroke="red"
+				fill="red" stroke-width="1"/>
+<rect x="75" y="51" width="2" height="2" stroke="red"
+				fill="red" stroke-width="1"/>
+<rect x="76" y="51" width="2" height="2" stroke="red"
+				fill="red" stroke-width="1"/>
+<rect x="77" y="51" width="2" height="2" stroke="red"
+				fill="red" stroke-width="1"/>
+<rect x="78" y="51" width="2" height="2" stroke="red"
+				fill="red" stroke-width="1"/>
+<rect x="79" y="51" width="2" height="2" stroke="red"
+				fill="red" stroke-width="1"/>
+<rect x="92" y="51" width="2" height="2" stroke="red"
+				fill="red" stroke-width="1"/>
+<rect x="131" y="51" width="2" height="2" stroke="red"
+				fill="red" stroke-width="1"/>
+<rect x="132" y="51" width="2" height="2" stroke="red"
+				fill="red" stroke-width="1"/>
+<rect x="143" y="51" width="2" height="2" stroke="red"
+				fill="red" stroke-width="1"/>
+<rect x="149" y="51" width="2" height="2" stroke="red"
+				fill="red" stroke-width="1"/>
+<rect x="23" y="52" width="2" height="2" stroke="red"
+				fill="red" stroke-width="1"/>
+<rect x="24" y="52" width="2" height="2" stroke="red"
+				fill="red" stroke-width="1"/>
+<rect x="25" y="52" width="2" height="2" stroke="red"
+				fill="red" stroke-width="1"/>
+<rect x="26" y="52" width="2" height="2" stroke="red"
+				fill="red" stroke-width="1"/>
+<rect x="27" y="52" width="2" height="2" stroke="red"
+				fill="red" stroke-width="1"/>
+<rect x="28" y="52" width="2" height="2" stroke="red"
+				fill="red" stroke-width="1"/>
+<rect x="29" y="52" width="2" height="2" stroke="red"
+				fill="red" stroke-width="1"/>
+<rect x="30" y="52" width="2" height="2" stroke="red"
+				fill="red" stroke-width="1"/>
+<rect x="131" y="52" width="2" height="2" stroke="red"
+				fill="red" stroke-width="1"/>
+<rect x="132" y="52" width="2" height="2" stroke="red"
+				fill="red" stroke-width="1"/>
+<rect x="133" y="52" width="2" height="2" stroke="red"
+				fill="red" stroke-width="1"/>
+<rect x="143" y="52" width="2" height="2" stroke="red"
+				fill="red" stroke-width="1"/>
+<rect x="144" y="52" width="2" height="2" stroke="red"
+				fill="red" stroke-width="1"/>
+<rect x="149" y="52" width="2" height="2" stroke="red"
+				fill="red" stroke-width="1"/>
+<rect x="27" y="54" width="2" height="2" stroke="green"
+				fill="green" stroke-width="1"/>
+<rect x="28" y="54" width="2" height="2" stroke="green"
+				fill="green" stroke-width="1"/>
+<rect x="29" y="54" width="2" height="2" stroke="green"
+				fill="green" stroke-width="1"/>
+<rect x="30" y="54" width="2" height="2" stroke="green"
+				fill="green" stroke-width="1"/>
+<rect x="31" y="54" width="2" height="2" stroke="green"
+				fill="green" stroke-width="1"/>
+<rect x="32" y="54" width="2" height="2" stroke="green"
+				fill="green" stroke-width="1"/>
+<rect x="33" y="54" width="2" height="2" stroke="green"
+				fill="green" stroke-width="1"/>
+<rect x="34" y="54" width="2" height="2" stroke="green"
+				fill="green" stroke-width="1"/>
+<rect x="35" y="54" width="2" height="2" stroke="green"
+				fill="green" stroke-width="1"/>
+<rect x="36" y="54" width="2" height="2" stroke="green"
+				fill="green" stroke-width="1"/>
+<rect x="37" y="54" width="2" height="2" stroke="green"
+				fill="green" stroke-width="1"/>
+<rect x="38" y="54" width="2" height="2" stroke="green"
+				fill="green" stroke-width="1"/>
+<rect x="39" y="54" width="2" height="2" stroke="green"
+				fill="green" stroke-width="1"/>
+<rect x="40" y="54" width="2" height="2" stroke="green"
+				fill="green" stroke-width="1"/>
+<rect x="41" y="54" width="2" height="2" stroke="green"
+				fill="green" stroke-width="1"/>
+<rect x="42" y="54" width="2" height="2" stroke="green"
+				fill="green" stroke-width="1"/>
+<rect x="51" y="54" width="2" height="2" stroke="green"
+				fill="green" stroke-width="1"/>
+<rect x="52" y="54" width="2" height="2" stroke="green"
+				fill="green" stroke-width="1"/>
+<rect x="53" y="54" width="2" height="2" stroke="green"
+				fill="green" stroke-width="1"/>
+<rect x="54" y="54" width="2" height="2" stroke="green"
+				fill="green" stroke-width="1"/>
+<rect x="55" y="54" width="2" height="2" stroke="green"
+				fill="green" stroke-width="1"/>
+<rect x="56" y="54" width="2" height="2" stroke="green"
+				fill="green" stroke-width="1"/>
+<rect x="57" y="54" width="2" height="2" stroke="green"
+				fill="green" stroke-width="1"/>
+<rect x="58" y="54" width="2" height="2" stroke="green"
+				fill="green" stroke-width="1"/>
+<rect x="59" y="54" width="2" height="2" stroke="green"
+				fill="green" stroke-width="1"/>
+<rect x="60" y="54" width="2" height="2" stroke="green"
+				fill="green" stroke-width="1"/>
+<rect x="61" y="54" width="2" height="2" stroke="green"
+				fill="green" stroke-width="1"/>
+<rect x="62" y="54" width="2" height="2" stroke="green"
+				fill="green" stroke-width="1"/>
+<rect x="63" y="54" width="2" height="2" stroke="green"
+				fill="green" stroke-width="1"/>
+<rect x="127" y="54" width="2" height="2" stroke="red"
+				fill="red" stroke-width="1"/>
+<rect x="128" y="54" width="2" height="2" stroke="red"
+				fill="red" stroke-width="1"/>
+<rect x="129" y="54" width="2" height="2" stroke="red"
+				fill="red" stroke-width="1"/>
+<rect x="130" y="54" width="2" height="2" stroke="red"
+				fill="red" stroke-width="1"/>
+<rect x="131" y="54" width="2" height="2" stroke="red"
+				fill="red" stroke-width="1"/>
+<rect x="27" y="55" width="2" height="2" stroke="green"
+				fill="green" stroke-width="1"/>
+<rect x="42" y="55" width="2" height="2" stroke="green"
+				fill="green" stroke-width="1"/>
+<rect x="51" y="55" width="2" height="2" stroke="green"
+				fill="green" stroke-width="1"/>
+<rect x="63" y="55" width="2" height="2" stroke="green"
+				fill="green" stroke-width="1"/>
+<rect x="64" y="55" width="2" height="2" stroke="green"
+				fill="green" stroke-width="1"/>
+<rect x="65" y="55" width="2" height="2" stroke="green"
+				fill="green" stroke-width="1"/>
+<rect x="66" y="55" width="2" height="2" stroke="green"
+				fill="green" stroke-width="1"/>
+<rect x="67" y="55" width="2" height="2" stroke="green"
+				fill="green" stroke-width="1"/>
+<rect x="68" y="55" width="2" height="2" stroke="green"
+				fill="green" stroke-width="1"/>
+<rect x="69" y="55" width="2" height="2" stroke="green"
+				fill="green" stroke-width="1"/>
+<rect x="70" y="55" width="2" height="2" stroke="green"
+				fill="green" stroke-width="1"/>
+<rect x="71" y="55" width="2" height="2" stroke="green"
+				fill="green" stroke-width="1"/>
+<rect x="72" y="55" width="2" height="2" stroke="green"
+				fill="green" stroke-width="1"/>
+<rect x="73" y="55" width="2" height="2" stroke="green"
+				fill="green" stroke-width="1"/>
+<rect x="74" y="55" width="2" height="2" stroke="green"
+				fill="green" stroke-width="1"/>
+<rect x="75" y="55" width="2" height="2" stroke="green"
+				fill="green" stroke-width="1"/>
+<rect x="76" y="55" width="2" height="2" stroke="green"
+				fill="green" stroke-width="1"/>
+<rect x="77" y="55" width="2" height="2" stroke="green"
+				fill="green" stroke-width="1"/>
+<rect x="100" y="55" width="2" height="2" stroke="red"
+				fill="red" stroke-width="1"/>
+<rect x="101" y="55" width="2" height="2" stroke="red"
+				fill="red" stroke-width="1"/>
+<rect x="102" y="55" width="2" height="2" stroke="red"
+				fill="red" stroke-width="1"/>
+<rect x="118" y="55" width="2" height="2" stroke="red"
+				fill="red" stroke-width="1"/>
+<rect x="126" y="55" width="2" height="2" stroke="red"
+				fill="red" stroke-width="1"/>
+<rect x="127" y="55" width="2" height="2" stroke="red"
+				fill="red" stroke-width="1"/>
+<rect x="25" y="57" width="2" height="2" stroke="green"
+				fill="green" stroke-width="1"/>
+<rect x="26" y="57" width="2" height="2" stroke="green"
+				fill="green" stroke-width="1"/>
+<rect x="27" y="57" width="2" height="2" stroke="green"
+				fill="green" stroke-width="1"/>
+<rect x="42" y="57" width="2" height="2" stroke="green"
+				fill="green" stroke-width="1"/>
+<rect x="43" y="57" width="2" height="2" stroke="green"
+				fill="green" stroke-width="1"/>
+<rect x="44" y="57" width="2" height="2" stroke="green"
+				fill="green" stroke-width="1"/>
+<rect x="45" y="57" width="2" height="2" stroke="green"
+				fill="green" stroke-width="1"/>
+<rect x="46" y="57" width="2" height="2" stroke="green"
+				fill="green" stroke-width="1"/>
+<rect x="47" y="57" width="2" height="2" stroke="green"
+				fill="green" stroke-width="1"/>
+<rect x="48" y="57" width="2" height="2" stroke="green"
+				fill="green" stroke-width="1"/>
+<rect x="49" y="57" width="2" height="2" stroke="green"
+				fill="green" stroke-width="1"/>
+<rect x="50" y="57" width="2" height="2" stroke="green"
+				fill="green" stroke-width="1"/>
+<rect x="51" y="57" width="2" height="2" stroke="green"
+				fill="green" stroke-width="1"/>
+<rect x="99" y="57" width="2" height="2" stroke="red"
+				fill="red" stroke-width="1"/>
+<rect x="100" y="57" width="2" height="2" stroke="red"
+				fill="red" stroke-width="1"/>
+<rect x="102" y="57" width="2" height="2" stroke="red"
+				fill="red" stroke-width="1"/>
+<rect x="117" y="57" width="2" height="2" stroke="red"
+				fill="red" stroke-width="1"/>
+<rect x="118" y="57" width="2" height="2" stroke="red"
+				fill="red" stroke-width="1"/>
+<rect x="119" y="57" width="2" height="2" stroke="red"
+				fill="red" stroke-width="1"/>
+<rect x="125" y="57" width="2" height="2" stroke="red"
+				fill="red" stroke-width="1"/>
+<rect x="126" y="57" width="2" height="2" stroke="red"
+				fill="red" stroke-width="1"/>
+<rect x="98" y="58" width="2" height="2" stroke="red"
+				fill="red" stroke-width="1"/>
+<rect x="99" y="58" width="2" height="2" stroke="red"
+				fill="red" stroke-width="1"/>
+<rect x="102" y="58" width="2" height="2" stroke="red"
+				fill="red" stroke-width="1"/>
+<rect x="103" y="58" width="2" height="2" stroke="red"
+				fill="red" stroke-width="1"/>
+<rect x="116" y="58" width="2" height="2" stroke="red"
+				fill="red" stroke-width="1"/>
+<rect x="117" y="58" width="2" height="2" stroke="red"
+				fill="red" stroke-width="1"/>
+<rect x="119" y="58" width="2" height="2" stroke="red"
+				fill="red" stroke-width="1"/>
+<rect x="120" y="58" width="2" height="2" stroke="red"
+				fill="red" stroke-width="1"/>
+<rect x="125" y="58" width="2" height="2" stroke="red"
+				fill="red" stroke-width="1"/>
+<rect x="159" y="58" width="2" height="2" stroke="red"
+				fill="red" stroke-width="1"/>
+<rect x="160" y="58" width="2" height="2" stroke="purple"
+				fill="purple" stroke-width="1"/>
+<rect x="80" y="60" width="2" height="2" stroke="red"
+				fill="red" stroke-width="1"/>
+<rect x="81" y="60" width="2" height="2" stroke="red"
+				fill="red" stroke-width="1"/>
+<rect x="82" y="60" width="2" height="2" stroke="red"
+				fill="red" stroke-width="1"/>
+<rect x="83" y="60" width="2" height="2" stroke="red"
+				fill="red" stroke-width="1"/>
+<rect x="84" y="60" width="2" height="2" stroke="red"
+				fill="red" stroke-width="1"/>
+<rect x="85" y="60" width="2" height="2" stroke="red"
+				fill="red" stroke-width="1"/>
+<rect x="97" y="60" width="2" height="2" stroke="red"
+				fill="red" stroke-width="1"/>
+<rect x="98" y="60" width="2" height="2" stroke="red"
+				fill="red" stroke-width="1"/>
+<rect x="103" y="60" width="2" height="2" stroke="red"
+				fill="red" stroke-width="1"/>
+<rect x="104" y="60" width="2" height="2" stroke="red"
+				fill="red" stroke-width="1"/>
+<rect x="115" y="60" width="2" height="2" stroke="red"
+				fill="red" stroke-width="1"/>
+<rect x="116" y="60" width="2" height="2" stroke="red"
+				fill="red" stroke-width="1"/>
+<rect x="120" y="60" width="2" height="2" stroke="red"
+				fill="red" stroke-width="1"/>
+<rect x="121" y="60" width="2" height="2" stroke="red"
+				fill="red" stroke-width="1"/>
+<rect x="159" y="60" width="2" height="2" stroke="red"
+				fill="red" stroke-width="1"/>
+<rect x="160" y="60" width="2" height="2" stroke="purple"
+				fill="purple" stroke-width="1"/>
+<rect x="80" y="61" width="2" height="2" stroke="red"
+				fill="red" stroke-width="1"/>
+<rect x="85" y="61" width="2" height="2" stroke="red"
+				fill="red" stroke-width="1"/>
+<rect x="96" y="61" width="2" height="2" stroke="red"
+				fill="red" stroke-width="1"/>
+<rect x="97" y="61" width="2" height="2" stroke="red"
+				fill="red" stroke-width="1"/>
+<rect x="104" y="61" width="2" height="2" stroke="red"
+				fill="red" stroke-width="1"/>
+<rect x="105" y="61" width="2" height="2" stroke="red"
+				fill="red" stroke-width="1"/>
+<rect x="114" y="61" width="2" height="2" stroke="red"
+				fill="red" stroke-width="1"/>
+<rect x="115" y="61" width="2" height="2" stroke="red"
+				fill="red" stroke-width="1"/>
+<rect x="121" y="61" width="2" height="2" stroke="red"
+				fill="red" stroke-width="1"/>
+<rect x="122" y="61" width="2" height="2" stroke="red"
+				fill="red" stroke-width="1"/>
+<rect x="139" y="61" width="2" height="2" stroke="red"
+				fill="red" stroke-width="1"/>
+<rect x="140" y="61" width="2" height="2" stroke="red"
+				fill="red" stroke-width="1"/>
+<rect x="147" y="61" width="2" height="2" stroke="red"
+				fill="red" stroke-width="1"/>
+<rect x="148" y="61" width="2" height="2" stroke="red"
+				fill="red" stroke-width="1"/>
+<rect x="159" y="61" width="2" height="2" stroke="red"
+				fill="red" stroke-width="1"/>
+<rect x="160" y="61" width="2" height="2" stroke="purple"
+				fill="purple" stroke-width="1"/>
+<rect x="80" y="63" width="2" height="2" stroke="red"
+				fill="red" stroke-width="1"/>
+<rect x="85" y="63" width="2" height="2" stroke="red"
+				fill="red" stroke-width="1"/>
+<rect x="94" y="63" width="2" height="2" stroke="red"
+				fill="red" stroke-width="1"/>
+<rect x="95" y="63" width="2" height="2" stroke="red"
+				fill="red" stroke-width="1"/>
+<rect x="96" y="63" width="2" height="2" stroke="red"
+				fill="red" stroke-width="1"/>
+<rect x="105" y="63" width="2" height="2" stroke="red"
+				fill="red" stroke-width="1"/>
+<rect x="106" y="63" width="2" height="2" stroke="red"
+				fill="red" stroke-width="1"/>
+<rect x="114" y="63" width="2" height="2" stroke="red"
+				fill="red" stroke-width="1"/>
+<rect x="122" y="63" width="2" height="2" stroke="red"
+				fill="red" stroke-width="1"/>
+<rect x="123" y="63" width="2" height="2" stroke="red"
+				fill="red" stroke-width="1"/>
+<rect x="138" y="63" width="2" height="2" stroke="red"
+				fill="red" stroke-width="1"/>
+<rect x="139" y="63" width="2" height="2" stroke="red"
+				fill="red" stroke-width="1"/>
+<rect x="140" y="63" width="2" height="2" stroke="red"
+				fill="red" stroke-width="1"/>
+<rect x="141" y="63" width="2" height="2" stroke="red"
+				fill="red" stroke-width="1"/>
+<rect x="146" y="63" width="2" height="2" stroke="red"
+				fill="red" stroke-width="1"/>
+<rect x="147" y="63" width="2" height="2" stroke="red"
+				fill="red" stroke-width="1"/>
+<rect x="148" y="63" width="2" height="2" stroke="red"
+				fill="red" stroke-width="1"/>
+<rect x="149" y="63" width="2" height="2" stroke="red"
+				fill="red" stroke-width="1"/>
+<rect x="159" y="63" width="2" height="2" stroke="red"
+				fill="red" stroke-width="1"/>
+<rect x="160" y="63" width="2" height="2" stroke="purple"
+				fill="purple" stroke-width="1"/>
+<rect x="80" y="64" width="2" height="2" stroke="red"
+				fill="red" stroke-width="1"/>
+<rect x="81" y="64" width="2" height="2" stroke="red"
+				fill="red" stroke-width="1"/>
+<rect x="82" y="64" width="2" height="2" stroke="red"
+				fill="red" stroke-width="1"/>
+<rect x="83" y="64" width="2" height="2" stroke="red"
+				fill="red" stroke-width="1"/>
+<rect x="84" y="64" width="2" height="2" stroke="red"
+				fill="red" stroke-width="1"/>
+<rect x="85" y="64" width="2" height="2" stroke="red"
+				fill="red" stroke-width="1"/>
+<rect x="94" y="64" width="2" height="2" stroke="red"
+				fill="red" stroke-width="1"/>
+<rect x="95" y="64" width="2" height="2" stroke="red"
+				fill="red" stroke-width="1"/>
+<rect x="104" y="64" width="2" height="2" stroke="red"
+				fill="red" stroke-width="1"/>
+<rect x="105" y="64" width="2" height="2" stroke="red"
+				fill="red" stroke-width="1"/>
+<rect x="114" y="64" width="2" height="2" stroke="red"
+				fill="red" stroke-width="1"/>
+<rect x="123" y="64" width="2" height="2" stroke="red"
+				fill="red" stroke-width="1"/>
+<rect x="124" y="64" width="2" height="2" stroke="red"
+				fill="red" stroke-width="1"/>
+<rect x="137" y="64" width="2" height="2" stroke="red"
+				fill="red" stroke-width="1"/>
+<rect x="138" y="64" width="2" height="2" stroke="red"
+				fill="red" stroke-width="1"/>
+<rect x="141" y="64" width="2" height="2" stroke="red"
+				fill="red" stroke-width="1"/>
+<rect x="142" y="64" width="2" height="2" stroke="red"
+				fill="red" stroke-width="1"/>
+<rect x="145" y="64" width="2" height="2" stroke="red"
+				fill="red" stroke-width="1"/>
+<rect x="146" y="64" width="2" height="2" stroke="red"
+				fill="red" stroke-width="1"/>
+<rect x="149" y="64" width="2" height="2" stroke="red"
+				fill="red" stroke-width="1"/>
+<rect x="150" y="64" width="2" height="2" stroke="red"
+				fill="red" stroke-width="1"/>
+<rect x="159" y="64" width="2" height="2" stroke="red"
+				fill="red" stroke-width="1"/>
+<rect x="160" y="64" width="2" height="2" stroke="purple"
+				fill="purple" stroke-width="1"/>
+<rect x="80" y="66" width="2" height="2" stroke="red"
+				fill="red" stroke-width="1"/>
+<rect x="82" y="66" width="2" height="2" stroke="red"
+				fill="red" stroke-width="1"/>
+<rect x="83" y="66" width="2" height="2" stroke="red"
+				fill="red" stroke-width="1"/>
+<rect x="95" y="66" width="2" height="2" stroke="red"
+				fill="red" stroke-width="1"/>
+<rect x="96" y="66" width="2" height="2" stroke="red"
+				fill="red" stroke-width="1"/>
+<rect x="103" y="66" width="2" height="2" stroke="red"
+				fill="red" stroke-width="1"/>
+<rect x="104" y="66" width="2" height="2" stroke="red"
+				fill="red" stroke-width="1"/>
+<rect x="114" y="66" width="2" height="2" stroke="red"
+				fill="red" stroke-width="1"/>
+<rect x="115" y="66" width="2" height="2" stroke="red"
+				fill="red" stroke-width="1"/>
+<rect x="122" y="66" width="2" height="2" stroke="red"
+				fill="red" stroke-width="1"/>
+<rect x="123" y="66" width="2" height="2" stroke="red"
+				fill="red" stroke-width="1"/>
+<rect x="136" y="66" width="2" height="2" stroke="red"
+				fill="red" stroke-width="1"/>
+<rect x="137" y="66" width="2" height="2" stroke="red"
+				fill="red" stroke-width="1"/>
+<rect x="142" y="66" width="2" height="2" stroke="red"
+				fill="red" stroke-width="1"/>
+<rect x="143" y="66" width="2" height="2" stroke="red"
+				fill="red" stroke-width="1"/>
+<rect x="144" y="66" width="2" height="2" stroke="red"
+				fill="red" stroke-width="1"/>
+<rect x="145" y="66" width="2" height="2" stroke="red"
+				fill="red" stroke-width="1"/>
+<rect x="150" y="66" width="2" height="2" stroke="red"
+				fill="red" stroke-width="1"/>
+<rect x="151" y="66" width="2" height="2" stroke="red"
+				fill="red" stroke-width="1"/>
+<rect x="159" y="66" width="2" height="2" stroke="red"
+				fill="red" stroke-width="1"/>
+<rect x="160" y="66" width="2" height="2" stroke="purple"
+				fill="purple" stroke-width="1"/>
+<rect x="80" y="67" width="2" height="2" stroke="red"
+				fill="red" stroke-width="1"/>
+<rect x="83" y="67" width="2" height="2" stroke="red"
+				fill="red" stroke-width="1"/>
+<rect x="84" y="67" width="2" height="2" stroke="red"
+				fill="red" stroke-width="1"/>
+<rect x="96" y="67" width="2" height="2" stroke="red"
+				fill="red" stroke-width="1"/>
+<rect x="97" y="67" width="2" height="2" stroke="red"
+				fill="red" stroke-width="1"/>
+<rect x="102" y="67" width="2" height="2" stroke="red"
+				fill="red" stroke-width="1"/>
+<rect x="103" y="67" width="2" height="2" stroke="red"
+				fill="red" stroke-width="1"/>
+<rect x="115" y="67" width="2" height="2" stroke="red"
+				fill="red" stroke-width="1"/>
+<rect x="116" y="67" width="2" height="2" stroke="red"
+				fill="red" stroke-width="1"/>
+<rect x="121" y="67" width="2" height="2" stroke="red"
+				fill="red" stroke-width="1"/>
+<rect x="122" y="67" width="2" height="2" stroke="red"
+				fill="red" stroke-width="1"/>
+<rect x="135" y="67" width="2" height="2" stroke="red"
+				fill="red" stroke-width="1"/>
+<rect x="136" y="67" width="2" height="2" stroke="red"
+				fill="red" stroke-width="1"/>
+<rect x="143" y="67" width="2" height="2" stroke="red"
+				fill="red" stroke-width="1"/>
+<rect x="144" y="67" width="2" height="2" stroke="red"
+				fill="red" stroke-width="1"/>
+<rect x="151" y="67" width="2" height="2" stroke="red"
+				fill="red" stroke-width="1"/>
+<rect x="152" y="67" width="2" height="2" stroke="red"
+				fill="red" stroke-width="1"/>
+<rect x="159" y="67" width="2" height="2" stroke="red"
+				fill="red" stroke-width="1"/>
+<rect x="160" y="67" width="2" height="2" stroke="purple"
+				fill="purple" stroke-width="1"/>
+<rect x="80" y="69" width="2" height="2" stroke="red"
+				fill="red" stroke-width="1"/>
+<rect x="84" y="69" width="2" height="2" stroke="red"
+				fill="red" stroke-width="1"/>
+<rect x="85" y="69" width="2" height="2" stroke="red"
+				fill="red" stroke-width="1"/>
+<rect x="97" y="69" width="2" height="2" stroke="red"
+				fill="red" stroke-width="1"/>
+<rect x="98" y="69" width="2" height="2" stroke="red"
+				fill="red" stroke-width="1"/>
+<rect x="99" y="69" width="2" height="2" stroke="red"
+				fill="red" stroke-width="1"/>
+<rect x="101" y="69" width="2" height="2" stroke="red"
+				fill="red" stroke-width="1"/>
+<rect x="102" y="69" width="2" height="2" stroke="red"
+				fill="red" stroke-width="1"/>
+<rect x="116" y="69" width="2" height="2" stroke="red"
+				fill="red" stroke-width="1"/>
+<rect x="117" y="69" width="2" height="2" stroke="red"
+				fill="red" stroke-width="1"/>
+<rect x="120" y="69" width="2" height="2" stroke="red"
+				fill="red" stroke-width="1"/>
+<rect x="121" y="69" width="2" height="2" stroke="red"
+				fill="red" stroke-width="1"/>
+<rect x="134" y="69" width="2" height="2" stroke="red"
+				fill="red" stroke-width="1"/>
+<rect x="135" y="69" width="2" height="2" stroke="red"
+				fill="red" stroke-width="1"/>
+<rect x="152" y="69" width="2" height="2" stroke="red"
+				fill="red" stroke-width="1"/>
+<rect x="153" y="69" width="2" height="2" stroke="red"
+				fill="red" stroke-width="1"/>
+<rect x="157" y="69" width="2" height="2" stroke="purple"
+				fill="purple" stroke-width="1"/>
+<rect x="158" y="69" width="2" height="2" stroke="purple"
+				fill="purple" stroke-width="1"/>
+<rect x="159" y="69" width="2" height="2" stroke="purple"
+				fill="purple" stroke-width="1"/>
+<rect x="160" y="69" width="2" height="2" stroke="purple"
+				fill="purple" stroke-width="1"/>
+<rect x="161" y="69" width="2" height="2" stroke="purple"
+				fill="purple" stroke-width="1"/>
+<rect x="80" y="70" width="2" height="2" stroke="red"
+				fill="red" stroke-width="1"/>
+<rect x="85" y="70" width="2" height="2" stroke="red"
+				fill="red" stroke-width="1"/>
+<rect x="99" y="70" width="2" height="2" stroke="red"
+				fill="red" stroke-width="1"/>
+<rect x="100" y="70" width="2" height="2" stroke="red"
+				fill="red" stroke-width="1"/>
+<rect x="101" y="70" width="2" height="2" stroke="red"
+				fill="red" stroke-width="1"/>
+<rect x="117" y="70" width="2" height="2" stroke="red"
+				fill="red" stroke-width="1"/>
+<rect x="118" y="70" width="2" height="2" stroke="red"
+				fill="red" stroke-width="1"/>
+<rect x="119" y="70" width="2" height="2" stroke="red"
+				fill="red" stroke-width="1"/>
+<rect x="120" y="70" width="2" height="2" stroke="red"
+				fill="red" stroke-width="1"/>
+<rect x="133" y="70" width="2" height="2" stroke="red"
+				fill="red" stroke-width="1"/>
+<rect x="134" y="70" width="2" height="2" stroke="red"
+				fill="red" stroke-width="1"/>
+<rect x="153" y="70" width="2" height="2" stroke="red"
+				fill="red" stroke-width="1"/>
+<rect x="154" y="70" width="2" height="2" stroke="red"
+				fill="red" stroke-width="1"/>
+<rect x="155" y="70" width="2" height="2" stroke="red"
+				fill="red" stroke-width="1"/>
+<rect x="157" y="70" width="2" height="2" stroke="purple"
+				fill="purple" stroke-width="1"/>
+<rect x="158" y="70" width="2" height="2" stroke="purple"
+				fill="purple" stroke-width="1"/>
+<rect x="159" y="70" width="2" height="2" stroke="purple"
+				fill="purple" stroke-width="1"/>
+<rect x="160" y="70" width="2" height="2" stroke="purple"
+				fill="purple" stroke-width="1"/>
+<rect x="161" y="70" width="2" height="2" stroke="purple"
+				fill="purple" stroke-width="1"/>
+<rect x="118" y="72" width="2" height="2" stroke="red"
+				fill="red" stroke-width="1"/>
+<rect x="119" y="72" width="2" height="2" stroke="red"
+				fill="red" stroke-width="1"/>
+<rect x="157" y="72" width="2" height="2" stroke="purple"
+				fill="purple" stroke-width="1"/>
+<rect x="158" y="72" width="2" height="2" stroke="purple"
+				fill="purple" stroke-width="1"/>
+<rect x="159" y="72" width="2" height="2" stroke="purple"
+				fill="purple" stroke-width="1"/>
+<rect x="160" y="72" width="2" height="2" stroke="purple"
+				fill="purple" stroke-width="1"/>
+<rect x="161" y="72" width="2" height="2" stroke="purple"
+				fill="purple" stroke-width="1"/>
+
+</svg>

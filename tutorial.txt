@@ -1,0 +1,12 @@
+Tutorial:
+	- When starting the app, click anywhere to begin. Click 'q' to quit anytime.
+	- Click anywhere on screen to move the mouse pointer.
+	- Click on a color on the lefthand side to select it.
+	- To toggle drawing (i.e. go from navigation to drawing mode), press 'w'.
+	- Use the arrow keys to draw lines.
+	- Press 'd' to dither.
+
+	Bugs:
+		- 'p' is for 'pen' mode (I forget what it does, but it shifts the screen up in a weird way).
+		- v: make an SVG output image (doesn't work anymore).
+		- e: export (doesn't work anymore).
